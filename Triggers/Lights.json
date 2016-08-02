@@ -1,0 +1,19 @@
+﻿[
+    { "name": "Entryway", "match": "entryway" },
+    { "name": "SecondFloorLanding", "match": "second floor", "not": "bathroom" },
+    { "name": "LivingRoom", "match": "living", "not": "outside" },
+    { "name": "Dining Room", "match": "dining" },
+    { "name": "Kitchen", "match": "kitchen", "not": "sink" },
+    { "name": "QuarterLanding", "match": "quarter landing" },
+    { "name": "ThirdFloorLanding", "match": "third floor", "not": "bathroom" },
+    { "name": "Bedroom", "match": "bedroom" },
+    { "name": "Hallway", "match": "hallway" },
+    { "name": "Basement", "match": "basement" },
+    { "name": "SecondFloor", "match": "on the second floor" },
+    { "name": "SecondFloor", "match": "first floor" },
+    { "name": "SecondFloor", "match": "downstairs" },
+    { "name": "LivingArea", "match": "living area" },
+    { "name": "LivingArea", "match": "living area" },
+    { "name": "ThirdFloor", "match": "on the third floor" },
+    { "name": "ThirdFloor", "match": "upstairs" }
+]

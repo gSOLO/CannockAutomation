@@ -1,0 +1,87 @@
+basement
+entryway
+downstairs
+second floor
+second floor landing
+living
+living room
+dining
+dining room
+kitchen
+quarter landing
+upstairs
+third floor
+third floor landing
+bedroom
+hallway
+lights
+basement on
+entryway on
+downstairs on
+second floor on
+second floor landing on
+living on
+living room on
+dining on
+dining room on
+kitchen on
+quarter landing on
+upstairs on
+third floor on
+third floor landing on
+bedroom on
+hallway on
+lights on
+turn on the lights
+turn on all the lights
+turn on the lights in the basement
+turn on the lights at the entryway
+turn on the lights in the entryway
+turn on the lights downstairs
+turn on the lights on the second floor
+turn on the lights at the second floor landing
+turn on the lights on the second floor landing
+turn on the lights in the living room
+turn on the lights in the dining room
+turn on the lights in the kitchen
+turn on the lights at the quarter landing
+turn on the lights upstairs
+turn on the lights at the third floor landing
+turn on the lights on the third floor landing
+turn on the lights in the bedroom
+turn on the lights in the hallway
+basement off
+entryway off
+downstairs off
+second floor off
+second floor landing off
+living off
+living room off
+dining off
+dining room off
+kitchen off
+quarter landing off
+upstairs off
+third floor off
+third floor landing off
+bedroom off
+hallway off
+lights off
+turn off the lights
+turn off all the lights
+turn off the lights in the basement
+turn off the lights at the entryway
+turn off the lights in the entryway
+turn off the lights downstairs
+turn off the lights on the second floor
+turn off the lights at the second floor landing
+turn off the lights on the second floor landing
+turn off the lights in the living room
+turn off the lights in the dining room
+turn off the lights in the kitchen
+turn off the lights at the quarter landing
+turn off the lights upstairs
+turn off the lights at the third floor landing
+turn off the lights on the third floor landing
+turn off the lights in the bedroom
+turn off the lights in the hallway

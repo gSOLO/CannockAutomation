@@ -1,0 +1,25 @@
+play
+pause
+stop
+resume
+shuffle
+skip
+back
+next
+previous
+mute
+volume up
+volume down
+turn the volume up
+turn the volume down
+play up next
+shuffle up next
+next track
+previous track
+play the next track
+music
+play music
+pause music
+stop music
+stop the music
+pause the music
